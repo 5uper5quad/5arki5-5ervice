@@ -11,11 +11,11 @@ const homeSchema = new mongoose.Schema({
 const Home = mongoose.model('Home', homeSchema);
 
 let getHomesForServer = function(callback) {
-  Home.find(function(err, repos) {
+  Home.find(function(err, homes) {
     if (err) {
       console.log('You done goofed!');
     } else {
-      callback(repos);
+      callback(homes);
     }
   })
   .limit(50)

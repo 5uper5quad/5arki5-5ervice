@@ -9,7 +9,9 @@ class App extends React.Component {
 
   render() {
     return (
-      <Modal />
+      <div>
+        <Modal />
+      </div>
     );
   }
 }

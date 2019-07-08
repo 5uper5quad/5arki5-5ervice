@@ -1,6 +1,6 @@
 # Project Name
 
-> This service renders the photo carousel portion of Airbnb 'homes' page. On photo mouseover the images should gain focus. Upon clicking any photo it will bring up the carousel allowing users to scroll through the gallery. Images can also be favorited and shared to social media.
+> This service renders the photo carousel portion of Breezebnb 'homes' page. On photo mouseover the images should gain focus. Upon clicking any photo it will bring up the carousel allowing users to scroll through the gallery. Stretch: Images can also be favorited and shared to social media.
 
 ## Related Projects
 
